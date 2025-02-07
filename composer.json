@@ -1,16 +1,16 @@
 {
-    "name": "tcdent/php-restclient", 
-    "version": "0.1.8.4", 
+    "name": "mathz/php-restclient", 
+    "version": "0.1", 
     "description": "A generic REST API client for PHP", 
     "type": "library", 
     "keywords": ["REST", "api", "client", "curl", "JSON", "XML"], 
-    "homepage": "http://github.com/tcdent/php-restclient", 
+    "homepage": "http://github.com/mathz/php-restclient", 
     "license": "MIT", 
     "authors": [
         {
-            "name": "Travis Dent", 
+            "name": "Mathz Franzén", 
             "role": "Developer", 
-            "email": "tcdent@gmail.com"
+            "email": "mathz@mdwebb.se"
         }
     ],
     "support": {
